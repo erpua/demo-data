@@ -1,0 +1,34 @@
+[
+  {
+    "releaseDate": "Mon May 31 2010 16:35:57 GMT+0000 (UTC)",
+    "size": "2GB",
+    "price": "7706.29",
+    "dualpack": "no",
+    "provider": "adata",
+    "serial": 3727
+  },
+  {
+    "releaseDate": "Sat Sep 18 1999 03:16:12 GMT+0000 (UTC)",
+    "size": "2GB",
+    "price": "425.92",
+    "dualpack": "yes",
+    "provider": "adata",
+    "serial": 4799
+  },
+  {
+    "releaseDate": "Sat Apr 20 2019 15:08:06 GMT+0000 (UTC)",
+    "size": "8GB",
+    "price": "737.62",
+    "dualpack": "yes",
+    "provider": "adata",
+    "serial": 3026
+  },
+  {
+    "releaseDate": "Sat Aug 19 1989 08:33:48 GMT+0000 (UTC)",
+    "size": "8GB",
+    "price": 3322,
+    "dualpack": "yes",
+    "provider": "msi",
+    "serial": 4777
+  }
+]
