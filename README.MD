@@ -11,5 +11,5 @@ Tutorial:
 - download heroku CLI => https://devcenter.heroku.com/articles/heroku-cli
 - in command line: heroku --version => heroku login
 - heroku create react-academy-backend
-- git heroku push master
+- git push heroku master
 
