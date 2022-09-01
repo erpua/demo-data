@@ -1,4 +1,5 @@
 const express = require('express');
+
 const app = express();
 const userData = require('./demodata.json');
 
@@ -13,5 +14,5 @@ app.get('/users', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`App is listening too port ${port}`);
+  console.log(`App is listening to port ${port}`);
 });
